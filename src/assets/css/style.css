@@ -290,7 +290,7 @@ li {
   flex-direction: column;
 }
 
-.header .main-nav ul li{
+.header .main-nav ul li {
   flex: 4;
 }
 
@@ -592,9 +592,9 @@ li {
 /* === Quote === */
 .welcome .quote {
   margin: 0 auto;
-  top: calc(50% - 60px);
+  top: calc((100vh - 325px) / 2);
   position: relative;
-  width: 500px;
+  width: 650px;
   z-index: 1;
 }
 
