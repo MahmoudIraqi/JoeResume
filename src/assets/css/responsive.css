@@ -4,7 +4,7 @@
 
 @media only screen and ( min-width: 1024px ) {
   .works .item-outer .item {
-    height: auto;
+    height: 350px;
   }
 }
 
